@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text, SafeAreaView, StatusBar, StyleSheet } from 'react-native';
+import { View, Text, SafeAreaView, StatusBar, ScrollView, StyleSheet } from 'react-native';
 
 import Header from './src/components/Header';
 import Body from './src/components/Body';
@@ -10,7 +10,10 @@ const App = () => {
     <SafeAreaView style={styles.container}>
       <StatusBar hidden={true} />
       <Header />
-      { //<Body />
+      <ScrollView>
+        <Body />
+      </ScrollView>
+      {
         //<Footer />
       }
     </SafeAreaView>
@@ -19,8 +22,7 @@ const App = () => {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    backgroundColor: '#c6d4e1'
+    flex: 1
   }
 });
 
