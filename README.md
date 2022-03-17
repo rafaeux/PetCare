@@ -11,3 +11,12 @@ A paleta de cores foi escolhida com cautela para a proposta visual do aplicativo
 
 # - Arquitetura de Software
 A arquitetura escolhida para o desenvolvimento do projeto foi a arquitetura MVC (Model View Controller), ela consiste em contribuir na otimização da velocidade entre as requisições feitas pelo comando dos usuários. 
+
+
+# - Processo de Desenvolvimento
+O processo de desenvolvimento foi definido a partir da necessidade atual, sendo assim, segue a lista de processos concluídos e pendentes:
+
+[ ] Criação do Wireframe do aplicativo
+[x] Criação do projeto de desenvolvimento
+[ ] Aplicação da arquitetura de software (MVC, neste caso)
+[ ] Estruturação de pastas
