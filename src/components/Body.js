@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
         paddingTop: 20,
         paddingRight: 20,
         paddingLeft: 20,
-        backgroundColor: '#c6d4e1',
+        backgroundColor: '#7a1745',
     },
     product: {
         backgroundColor: '#ffffff',
@@ -48,7 +48,7 @@ const styles = StyleSheet.create({
     },
     productPrice: {
         flex: 1,
-        backgroundColor: '#bdb8ad',
+        backgroundColor: '#cb4f57',
         width: '20%',
         justifyContent: 'center',
         elevation: 3
