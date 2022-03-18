@@ -16,7 +16,7 @@ A arquitetura escolhida para o desenvolvimento do projeto foi a arquitetura MVC 
 # - Processo de Desenvolvimento
 O processo de desenvolvimento foi definido a partir da necessidade atual, sendo assim, segue a lista de processos concluídos e pendentes:
 
-[ ] Criação do Wireframe do aplicativo
-[x] Criação do projeto de desenvolvimento
-[ ] Aplicação da arquitetura de software (MVC, neste caso)
-[ ] Estruturação de pastas
+- [ ] Criação do Wireframe do aplicativo
+- [x] Criação do projeto de desenvolvimento
+- [ ] Aplicação da arquitetura de software (MVC, neste caso)
+- [ ] Estruturação de pastas
