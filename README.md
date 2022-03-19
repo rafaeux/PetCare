@@ -21,9 +21,8 @@ O processo de desenvolvimento foi definido a partir da necessidade atual, sendo 
 - [x] Criação da branch de desenvolvimento
 - [x] Adição da branch criada no GitHub
 - [ ] Estruturação de pastas (Aplicação da arquitetura de software MVC, neste caso)
-- [x] Desenvolvimento do cabeçalho da tela inicial (splash screen)
-- [x] Desenvolvimento do corpo da tela inicial (splash screen)
-- [x] Desenvolvimento do footer da tela inicial (splash screen)
+- [x] Desenvolvimento do cabeçalho das telas
+- [x] Desenvolvimento do corpo das telas
 - [x] Criação da navegação entre telas
 - [ ] Testes de perfomance e navegabilidade
 - [ ] Merge da branch de desenvolvimento para a branch principal
