@@ -18,6 +18,10 @@ const Body = () => {
         <View style={styles.body}>
             <Product name="Teste" description="Este é um produto teste que ainda não está para venda" price="R$ 25,00" />
             <Product name="Teste" description="Este é um produto teste que ainda não está para venda" price="R$ 25,00" />
+            <Product name="Teste" description="Este é um produto teste que ainda não está para venda" price="R$ 25,00" />
+            <Product name="Teste" description="Este é um produto teste que ainda não está para venda" price="R$ 25,00" />
+            <Product name="Teste" description="Este é um produto teste que ainda não está para venda" price="R$ 25,00" />
+            <Product name="Teste" description="Este é um produto teste que ainda não está para venda" price="R$ 25,00" />
         </View>
     );
 };
