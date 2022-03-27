@@ -3,13 +3,13 @@ import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 
 const Product = (props) => {
     return (
-        <TouchableOpacity style={styles.product}>
+        <View style={styles.product}>
             <Text style={styles.productName}>{props.name}</Text>
             <Text style={styles.productDescription}>{props.description}</Text>
             <TouchableOpacity style={styles.productPrice}>
                 <Text style={styles.productPriceText}>{props.price}</Text>
             </TouchableOpacity>
-        </TouchableOpacity>
+        </View>
     );
 }
 
