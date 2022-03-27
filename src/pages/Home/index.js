@@ -12,9 +12,6 @@ const Home = () => {
         <ScrollView>
           <Body />
         </ScrollView>
-        {
-          //<Footer />
-        }
       </SafeAreaView>
     );
   };

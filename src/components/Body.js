@@ -16,12 +16,13 @@ const Product = (props) => {
 const Body = () => {
     return (
         <View style={styles.body}>
-            <Product name="Teste" description="Este é um produto teste que ainda não está para venda" price="R$ 25,00" />
-            <Product name="Teste" description="Este é um produto teste que ainda não está para venda" price="R$ 25,00" />
-            <Product name="Teste" description="Este é um produto teste que ainda não está para venda" price="R$ 25,00" />
-            <Product name="Teste" description="Este é um produto teste que ainda não está para venda" price="R$ 25,00" />
-            <Product name="Teste" description="Este é um produto teste que ainda não está para venda" price="R$ 25,00" />
-            <Product name="Teste" description="Este é um produto teste que ainda não está para venda" price="R$ 25,00" />
+            <Product name="Luftal" description="Este colírio deve ser utilizado 2x ao dia." price="R$ 25,00" />
+            <Product name="Still" description="Este colírio deve ser utilizado 3x ao dia." price="R$ 32,90" />
+            <Product name="Cerenia Zoetis" description="Este medicamento deve ser utilizado 1x ao dia." price="R$ 108,99" />
+            <Product name="Fortekor" description="Este medicamento deve ser utilizado 1x ao dia." price="R$ 112,50" />
+            <Product name="Spray Avert Noxxi Wall" description="Este spray deve ser utilizado 3x ao dia, se necessário." price="R$ 151,99" />
+            <Product name="Agemol" description="Este é um produto teste que ainda não está para venda." price="R$ 86,99" />
+            <Product name="Cyclavance" description="Este medicamento deve ser utilizado 1x por semana, se necessário." price="R$ 356,99" />
         </View>
     );
 };
