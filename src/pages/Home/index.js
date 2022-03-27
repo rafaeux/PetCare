@@ -2,7 +2,7 @@ import React from 'react';
 import { SafeAreaView, StatusBar, ScrollView, StyleSheet } from 'react-native';
 
 import Header from '../../components/Header';
-import Body from '../../components/Body';
+import Body from './components/Body';
 
 const Home = () => {
     return (
@@ -18,7 +18,8 @@ const Home = () => {
   
   const styles = StyleSheet.create({
     container: {
-      flex: 1
+      flex: 1,
+      backgroundColor: '#7a1745'
     }
   });
   
