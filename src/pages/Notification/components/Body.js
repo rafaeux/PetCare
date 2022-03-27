@@ -1,12 +1,12 @@
-import React from 'react';
-import { View, Text, StyleSheet } from 'react-native';
+import React, { useState } from 'react';
+import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 
 const Notification = (props) => {
     return (
-        <View style={styles.notification}>
+        <TouchableOpacity style={styles.notification}>
             <Text style={styles.notificationName}>{props.name}</Text>
             <Text style={styles.notificationDescription}>{props.description}</Text>
-        </View>
+        </TouchableOpacity>
     );
 }
 
