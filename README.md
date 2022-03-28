@@ -28,19 +28,19 @@ O processo de desenvolvimento foi definido a partir da necessidade atual, sendo 
 - [ ] Merge da branch de desenvolvimento para a branch principal
 
 
+## - Tecnologias Utilizadas
+Escolhemos minusciosamente as tecnologias de desenvolvimento do projeto para melhor aproveitamento, performance e praticidade, sendo elas:
+- Visual Studio Code (ambiente de trabalho);
+- React Native (framework de desenvolvimento);
+- E NodeJS (fornecedor).
+
+
 ## - Instalação do Aplicativo
 A instalação é bém simples, você vai precisar dos seguintes requisitos:
 
 - Git, qualquer versão;
 - NodeJS, versão 16+;
 - E um clone do projeto para a máquina local.
-
-
-## - Tecnologias Utilizadas
-Escolhemos minusciosamente as tecnologias de desenvolvimento do projeto para melhor aproveitamento, performance e praticidade, sendo elas:
-- Visual Studio Code (ambiente de trabalho);
-- React Native (framework de desenvolvimento);
-- E NodeJS (fornecedor).
 
 
 ## - Contribuindo com o Projeto
