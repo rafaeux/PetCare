@@ -26,3 +26,9 @@ O processo de desenvolvimento foi definido a partir da necessidade atual, sendo 
 - [x] Criação da navegação entre telas
 - [x] Testes de perfomance e navegabilidade
 - [ ] Merge da branch de desenvolvimento para a branch principal
+
+## - Instalação do Aplicativo
+A instalação é bém simples, você vai precisar dos seguintes requisitos:
+- Git, qualquer versão;
+- NodeJS, versão 16+;
+- E um clone do projeto para a máquina local.
