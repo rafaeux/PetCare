@@ -36,6 +36,13 @@ A instalação é bém simples, você vai precisar dos seguintes requisitos:
 - E um clone do projeto para a máquina local.
 
 
+## - Tecnologias Utilizadas
+Escolhemos minusciosamente as tecnologias de desenvolvimento do projeto para melhor aproveitamento, performance e praticidade, sendo elas:
+- Visual Studio Code (ambiente de trabalho);
+- React Native (framework de desenvolvimento);
+- E NodeJS (fornecedor).
+
+
 ## - Contribuindo com o Projeto
 Caso você queira contribuir, é recomendado que você utilize o comando `git checkout main` na pasta principal do projeto local para começar.
 Por conseguinte, execute o comando `git pull origin main` para certificar que o aplicativo local esteja com a versão mais recente do projeto.
