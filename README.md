@@ -57,35 +57,35 @@ A primeira tela exibida é a Splash Screen, confira:
 </p>
 
 
-Início:
+### Início:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/62763135/160502774-347d634f-f1d7-40ac-94ef-b3498ea32f0f.png" />
 </p>
 
 
-Busca:
+### Busca:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/62763135/160502783-0e37eab8-bfa6-4fe5-bdeb-41184fb20dd8.png" />
 </p>
 
 
-Novo:
+### Novo:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/62763135/160502812-96c41720-2dc0-49cc-8fe1-4cda9489580c.png" />
 </p>
 
 
-Notificações:
+### Notificações:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/62763135/160502828-6741b522-99a8-4b5c-b331-caba49f7e287.png" />
 </p>
 
 
-E por fim, o perfil dos animais:
+### E por fim, o perfil dos animais:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/62763135/160502858-c67b1bb0-7965-46c1-aeef-a5be3e389ba6.png" />
