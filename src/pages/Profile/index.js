@@ -2,7 +2,7 @@ import React from 'react';
 import { SafeAreaView, StatusBar, ScrollView, StyleSheet } from 'react-native';
 
 import Header from '../../components/Header';
-import Body from '../../components/Body';
+import Body from './components/Body';
 
 const Profile = () => {
     return (
@@ -12,9 +12,6 @@ const Profile = () => {
         <ScrollView>
           <Body />
         </ScrollView>
-        {
-          //<Footer />
-        }
       </SafeAreaView>
     );
   };
