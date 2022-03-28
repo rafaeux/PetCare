@@ -1,12 +1,12 @@
 import React from 'react';
-import { View, Text, StyleSheet } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 
 const Animal = (props) => {
     return (
-        <View style={styles.animal}>
+        <TouchableOpacity style={styles.animal}>
             <Text style={styles.animalName}>{props.name} ({props.type})</Text>
             <Text style={styles.animalDescription}>{props.description}</Text>
-        </View>
+        </TouchableOpacity>
     );
 }
 
