@@ -12,9 +12,6 @@ const New = () => {
         <ScrollView>
           <Body />
         </ScrollView>
-        {
-          //<Footer />
-        }
       </SafeAreaView>
     );
   };

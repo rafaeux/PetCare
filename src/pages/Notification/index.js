@@ -12,9 +12,6 @@ const Notification = () => {
         <ScrollView>
           <Body />
         </ScrollView>
-        {
-          //<Footer />
-        }
       </SafeAreaView>
     );
   };
