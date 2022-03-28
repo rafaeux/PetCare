@@ -39,18 +39,23 @@ const styles = StyleSheet.create({
         flex: 1,
         fontSize: 24,
         fontWeight: 'bold',
+        backgroundColor: '#cccccc'
     },
     productDescription: {
         flex: 1,
         fontSize: 16,
-        color: '#B5B5B5'
+        color: '#B5B5B5',
+        fontWeight: 'bold',
+        backgroundColor: '#cccccc',
+        marginTop: 10
     },
     productPrice: {
         flex: 1,
         backgroundColor: '#cb4f57',
         width: '20%',
         justifyContent: 'center',
-        elevation: 3
+        elevation: 3,
+        marginTop: 10
     },
     productPriceText: {
         color: '#ffffff',
