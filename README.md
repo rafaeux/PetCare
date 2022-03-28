@@ -37,6 +37,6 @@ A instalação é bém simples, você vai precisar dos seguintes requisitos:
 
 
 ## - Contribuindo com o Projeto
-Caso você queira contribuir, é recomendado que você utilize o comando 'git checkout main' na pasta principal do projeto local para começar.
-Por conseguinte, execute o comando 'git pull origin main' para certificar que o aplicativo local esteja com a versão mais recente do projeto.
-E por fim, crie uma branch de desenvolvimento com o seguinte comando: 'git checkout -b (o nome da branch que você queira)'.
+Caso você queira contribuir, é recomendado que você utilize o comando `git checkout main` na pasta principal do projeto local para começar.
+Por conseguinte, execute o comando `git pull origin main` para certificar que o aplicativo local esteja com a versão mais recente do projeto.
+E por fim, crie uma branch de desenvolvimento com o seguinte comando: `git checkout -b (o nome da branch que você queira)`.
