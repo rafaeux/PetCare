@@ -9,9 +9,7 @@ const Home = () => {
       <SafeAreaView style={styles.container}>
         <StatusBar hidden={true} />
         <Header />
-        <ScrollView>
-          <Body />
-        </ScrollView>
+        <Body style={styles.body}/>
       </SafeAreaView>
     );
   };
