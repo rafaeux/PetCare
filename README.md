@@ -42,6 +42,13 @@ A instalação é bém simples, você vai precisar dos seguintes requisitos:
 - NodeJS, versão 16+;
 - E um clone do projeto para a máquina local.
 
+Você também precisará instalar as seguintes dependências:
+- `npm install @react-navigation/native`;
+- `npm install react-navigation/bottom-tabs`;
+- `npm install react-native-screens`;
+- `npm install react-native-safe-area-context`;
+- `npm install react-native-vector-icons`.
+
 
 ## - Contribuindo com o Projeto
 Caso você queira contribuir, é recomendado que você utilize o comando `git checkout main` na pasta principal do projeto local para começar.
