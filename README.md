@@ -25,7 +25,7 @@ O processo de desenvolvimento foi definido a partir da necessidade atual, sendo 
 - [x] Desenvolvimento do corpo das telas
 - [x] Criação da navegação entre telas
 - [x] Testes de perfomance e navegabilidade
-- [ ] Merge da branch de desenvolvimento para a branch principal
+- [x] Merge da branch de desenvolvimento para a branch principal
 
 
 ## - Tecnologias Utilizadas
