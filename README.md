@@ -44,7 +44,7 @@ A instalação é bém simples, você vai precisar dos seguintes requisitos:
 
 Você também precisará instalar as seguintes dependências:
 - `npm install @react-navigation/native`;
-- `npm install react-navigation/bottom-tabs`;
+- `npm install @react-navigation/bottom-tabs`;
 - `npm install react-native-screens`;
 - `npm install react-native-safe-area-context`;
 - `npm install react-native-vector-icons`.
